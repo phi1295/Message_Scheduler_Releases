@@ -9,7 +9,7 @@ Message Scheduler allows you to schedule SMS messages to be sent automatically a
    - Download the latest `message_scheduler_release.apk` from the **Assets** section of the latest release.
 
 2. **Install on Android Device**:
-   - Transfer the `app-release.apk` file to your Android device.
+   - Transfer the `message_scheduler_release.apk` file to your Android device.
    - On your device, open your File Manager and tap the APK file to install it.
    - If prompted, allow installation from "Unknown Sources".
 
